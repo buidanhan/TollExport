@@ -8,3 +8,13 @@ C:\Users\anbd\source\repos\TollExportSIP\TollExportSIP\obj\Debug\TollExportSIP.c
 C:\Users\anbd\source\repos\TollExportSIP\TollExportSIP\obj\Debug\TollExportSIP.exe
 C:\Users\anbd\source\repos\TollExportSIP\TollExportSIP\obj\Debug\TollExportSIP.pdb
 C:\Users\anbd\source\repos\TollExportSIP\TollExportSIP\obj\Debug\TollExportSIP.TollExportFIleSIP.resources
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\bin\Debug\TollExportSIP.exe.config
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\bin\Debug\TollExportSIP.exe
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\bin\Debug\TollExportSIP.pdb
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.TollExportFIleSIP.resources
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.Properties.Resources.resources
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.csproj.GenerateResource.cache
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.csproj.CoreCompileInputs.cache
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.exe
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.pdb
+C:\Users\anbd\Desktop\Toll\TollExport\TollExportSIP\obj\Debug\TollExportSIP.csproj.AssemblyReference.cache
